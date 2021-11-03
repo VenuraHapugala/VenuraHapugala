@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venura Hapugala</h1>
-<h3 align="center">A passionate Optimistic Developer</h3>
+<h3 align="center">"Be a brand you wish to see ⚡"</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
