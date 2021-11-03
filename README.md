@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Venura Hapugala</h1>
-<h3 align="center">"Be a brand you wish to see ⚡"</h3>
+<h4 align="center">"Be a brand you wish to see ⚡"</h4>
+
+I’m currently a third year undergraduate at SLIIT following BSc(Hons) in Information Technology Specializing in Software Engineering. I am a self-motivated, optimistic and a smart working person. I have good leadership skills, flexibility, creativity and a good analytical approach with an intellectual mindset in all the circumstances I work with. I am fluent in both English and Sinhala languages. I am very passionate about programming, and I can work to imply all my efforts with a good commitment to give a successful outcome for who I work for
+
+</br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -8,9 +13,6 @@
 <a href="https://instagram.com/venura_hapugala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venura_hapugala" height="30" width="40" /></a>
 </p>
 
-I’m currently a third year undergraduate at SLIIT following BSc(Hons) in Information Technology Specializing in Software Engineering. I am a self-motivated, optimistic and a smart working person. I have good leadership skills, flexibility, creativity and a good analytical approach with an intellectual mindset in all the circumstances I work with. I am fluent in both English and Sinhala languages. I am very passionate about programming, and I can work to imply all my efforts with a good commitment to give a successful outcome for who I work for
-
-</br>
 
 
 <h3 align="left">Languages and Tools:</h3>
